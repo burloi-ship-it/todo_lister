@@ -39,3 +39,5 @@ Make sure you have **Python 3.12+** installed on your workstation.
    ```bash
    git clone [https://github.com/burloi-ship-it/python-todo-cli.git](https://github.com/burloi-ship-it/python-todo-cli.git)
    cd python-todo-cli
+
+⭐ If you found this project useful, consider giving it a star!
